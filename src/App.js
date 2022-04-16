@@ -4,7 +4,7 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <div className="container">
+    <div className="h-screen flex flex-col justify-between overflow-hidden">
       <Header />
       <Board />
       <Footer />
