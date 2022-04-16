@@ -10,128 +10,128 @@ const BoardArea = () => {
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '6.95% 33.25%',
+          backgroundPosition: '5.5% 33.25%',
         }}></div>
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '23.7% 33.25%',
+          backgroundPosition: '22.75% 33.25%',
         }}></div>
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '40.8% 33.25%',
+          backgroundPosition: '40.3% 33.25%',
         }}></div>
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '57.6% 33.25%',
+          backgroundPosition: '57.8% 33.25%',
         }}></div>
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '74.6% 33.25%',
+          backgroundPosition: '75.5% 33.25%',
         }}></div>
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '91.65% 33.25%',
+          backgroundPosition: '93% 33.25%',
         }}></div>
         
 
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '6.95% 53.15%',
+          backgroundPosition: '5.5% 53.15%',
         }}></div>
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '23.7% 53.15%',
+          backgroundPosition: '22.75% 53.15%',
         }}></div>
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '40.45% 53.15%',
+          backgroundPosition: '40.3% 53.15%',
         }}></div>
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '57.6% 53.15%',
+          backgroundPosition: '57.8% 53.15%',
         }}></div>
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '74.6% 53.15%',
+          backgroundPosition: '75.5% 53.15%',
         }}></div>
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '91.65% 53.15%',
-        }}></div>
-
-
-        <div className='h-36 overflow-hidden' style={{
-          backgroundImage: 'url('+Spiderman+')',
-          backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '6.95% 73%',
-        }}></div>
-        <div className='h-36 overflow-hidden' style={{
-          backgroundImage: 'url('+Spiderman+')',
-          backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '23.7% 73%',
-        }}></div>
-        <div className='h-36 overflow-hidden' style={{
-          backgroundImage: 'url('+Spiderman+')',
-          backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '40.45% 73%',
-        }}></div>
-        <div className='h-36 overflow-hidden' style={{
-          backgroundImage: 'url('+Spiderman+')',
-          backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '57.6% 73%',
-        }}></div>
-        <div className='h-36 overflow-hidden' style={{
-          backgroundImage: 'url('+Spiderman+')',
-          backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '74.6% 73%',
-        }}></div>
-        <div className='h-36 overflow-hidden' style={{
-          backgroundImage: 'url('+Spiderman+')',
-          backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '91.65% 73%',
+          backgroundPosition: '93% 53.15%',
         }}></div>
 
 
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '6.95% 93%',
+          backgroundPosition: '5.5% 73%',
         }}></div>
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '23.7% 93%',
+          backgroundPosition: '22.75% 73%',
         }}></div>
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '40.45% 93%',
+          backgroundPosition: '40.3% 73%',
         }}></div>
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '57.6% 93%',
+          backgroundPosition: '57.8% 73%',
         }}></div>
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '74.6% 93%',
+          backgroundPosition: '75.5% 73%',
         }}></div>
         <div className='h-36 overflow-hidden' style={{
           backgroundImage: 'url('+Spiderman+')',
           backgroundSize: '1000px 1168.75px',
-          backgroundPosition: '91.65% 93%',
+          backgroundPosition: '93% 73%',
+        }}></div>
+
+
+        <div className='h-36 overflow-hidden' style={{
+          backgroundImage: 'url('+Spiderman+')',
+          backgroundSize: '1000px 1168.75px',
+          backgroundPosition: '5.5% 93%',
+        }}></div>
+        <div className='h-36 overflow-hidden' style={{
+          backgroundImage: 'url('+Spiderman+')',
+          backgroundSize: '1000px 1168.75px',
+          backgroundPosition: '22.75% 93%',
+        }}></div>
+        <div className='h-36 overflow-hidden' style={{
+          backgroundImage: 'url('+Spiderman+')',
+          backgroundSize: '1000px 1168.75px',
+          backgroundPosition: '40.3% 93%',
+        }}></div>
+        <div className='h-36 overflow-hidden' style={{
+          backgroundImage: 'url('+Spiderman+')',
+          backgroundSize: '1000px 1168.75px',
+          backgroundPosition: '57.8% 93%',
+        }}></div>
+        <div className='h-36 overflow-hidden' style={{
+          backgroundImage: 'url('+Spiderman+')',
+          backgroundSize: '1000px 1168.75px',
+          backgroundPosition: '75.5% 93%',
+        }}></div>
+        <div className='h-36 overflow-hidden' style={{
+          backgroundImage: 'url('+Spiderman+')',
+          backgroundSize: '1000px 1168.75px',
+          backgroundPosition: '93% 93%',
         }}></div>
 
 
